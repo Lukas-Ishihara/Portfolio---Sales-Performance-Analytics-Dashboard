@@ -1,4 +1,4 @@
-# Portfolio---Sales-Performance-Analytics-Dashboard
+# Sales-Performance-Analytics-Dashboard
 
 **[View Project Deck (PDF)](Sales_Performance_Analytics_Dashboard.pdf)**
 
