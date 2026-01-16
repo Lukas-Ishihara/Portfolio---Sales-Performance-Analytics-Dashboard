@@ -1,12 +1,13 @@
 # Sales Performance Analytics Dashboard
 
-# Summary
-Developed a strategic KPI dashboard to track sales trends and buyer behavior for an organization with $1.5M in annual GMV. This tool transformed raw transaction logs into actionable insights for leadership.
-
+## _**Click image to view full slide deck (7 Slides)**_
 [![Click to view full PDF](Dept_Dashboard.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
 [![Click to view full PDF](Dept_Dashboard_2.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
 [![Click to view full PDF](Dept_Dashboard_3.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
-## _**Click image to view full slide deck (7 Slides)**_
+
+
+# Summary
+Developed a strategic KPI dashboard to track sales trends and buyer behavior for an organization with $1.5M in annual GMV. This tool transformed raw transaction logs into actionable insights for leadership.
 
 # Key Highlights
 **Problem:**  
