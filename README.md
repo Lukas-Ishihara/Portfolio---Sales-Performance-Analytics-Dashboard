@@ -6,7 +6,7 @@ Developed a strategic KPI dashboard to track sales trends and buyer behavior for
 [![Click to view full PDF](Dept_Dashboard.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
 [![Click to view full PDF](Dept_Dashboard_2.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
 [![Click to view full PDF](Dept_Dashboard_3.PNG)](Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
-## _**Click image to view full slide deck (6 Slides)**_
+## _**Click image to view full slide deck (7 Slides)**_
 
 # Key Highlights
 **Problem:**  
